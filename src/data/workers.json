@@ -1,0 +1,47 @@
+[
+  {
+    "id": "G001",
+    "name": "girma",
+    "contact": "1234567890",
+    "location": "Addis Ababa",
+    "skills": "gate keeper",
+    "availability": "busy",
+    "experienceLevel": "beginner"
+  },
+  {
+    "id": "M001",
+    "name": "abebech",
+    "contact": "1234567890",
+    "location": "Addis Ababa",
+    "skills": "maid",
+    "availability": "busy",
+    "experienceLevel": "beginner"
+  },
+  {
+    "id": "A001",
+    "name": "samuel",
+    "contact": "1234567890",
+    "location": "Addis Ababa",
+    "skills": "artist",
+    "availability": "available",
+    "experienceLevel": "beginner"
+  },
+  {
+    "id": "N001",
+    "name": "gemechu",
+    "contact": "1234567890",
+    "location": "Addis Ababa",
+    "skills": "nanny",
+    "availability": "available",
+    "experienceLevel": "beginner"
+  },
+  {
+    "id": "C001",
+    "name": "kelemua",
+    "contact": "1234567890",
+    "location": "Addis Ababa",
+    "skills": "cook",
+    "availability": "available",
+    "experienceLevel": "expert"
+  }
+]
